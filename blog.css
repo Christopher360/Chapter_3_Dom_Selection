@@ -1,0 +1,72 @@
+#intro {
+    background-color: black;;
+    border: 1px solid black;
+
+}
+
+body {background-color: white}
+
+h1 {
+    color: black;
+    font-family: Helvetica;
+    font-size: 3.8em;
+    text-align: center;
+    margin: 12px;
+}
+
+h3 {
+    color: black;
+    font-family: Helvetica;
+    font-size: 2em;
+    text-align: center;
+}
+
+.gameImage {
+    {margin: 40px}
+    {padding: 30px}
+}
+    
+
+.title {
+    color: black;
+    font-family: Helvetica;
+    font-size: 4em;
+    text-align: center;
+    line-height: 1.2em;
+}
+
+.article__content {
+    color: black;
+    font-family: Helvetica;
+    font-size: .9em;
+    text-align: center;
+}
+
+.article__header {
+    color: black;
+    font-family: Helvetica;
+    font-size: .9em;
+    text-align: center;
+}
+
+.article__content2 {
+    color: black;
+    font-family: Helvetica;
+    font-size: .9em;
+    text-align: center;
+}
+
+.article__footer {
+    color: black;
+    font-family: Helvetica;
+    font-size: 1.5em;
+    text-align: center;
+}
+
+p  {
+    color: black;
+    font-family: Helvetica;
+    font-size: 120%;
+    text-align: center;
+    margin-top: 30px
+    {padding: 20px}
